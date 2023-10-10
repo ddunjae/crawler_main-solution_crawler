@@ -1,0 +1,31 @@
+*/.DS_Store
+.DS_store
+
+*.pyc
+__pycache__/
+
+
+# chromedriver
+chromedriver
+chromedriver.exe
+
+# test file
+img_*
+test.*
+currency_crawling.*
+*.ipynb
+*.zip
+overseas*
+*past.py
+
+# output
+crawling_data/
+imagefile/
+*.xlsx
+
+#for secu
+.env
+
+#kratmarket
+kartmarket*
+kArtMarket*
